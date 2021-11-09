@@ -3,11 +3,14 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import ButtonAppBar from './components/navbar'
+import URLTable from './components/table'
 
 ReactDOM.render(
   <React.StrictMode>
     <ButtonAppBar/>
-    <App />
+    <App/>
+    <URLTable/>
   </React.StrictMode>,
   document.getElementById('root')
 );
