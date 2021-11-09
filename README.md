@@ -28,7 +28,6 @@ I had no choice but to use one these popular options which is Heroku.
 This app was deployed using the Git deployment method.
 
 ## Git repos :
-Frontend : https://github.com/Amine-Frikha/dot9_url_shortener_frontend
-Backend : https://github.com/Amine-Frikha/Dot9_URL_Shortener_Backend
-
+#### Frontend : https://github.com/Amine-Frikha/dot9_url_shortener_frontend
+#### Backend : https://github.com/Amine-Frikha/Dot9_URL_Shortener_Backend
 
